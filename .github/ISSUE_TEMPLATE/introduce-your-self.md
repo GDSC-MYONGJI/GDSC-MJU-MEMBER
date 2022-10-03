@@ -13,7 +13,3 @@ assignees: ''
 - 
 # Major
 - 
-# My 3 rules
-- 
-- 
--
