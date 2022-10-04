@@ -1,7 +1,7 @@
 ## My 3 rules
-- Write user 1st rule
-- Write user 2nd rule
-- Write user 3rd rule
-
+- 꾸준하게
+- 적극적으로
+- 열심히
+- 
 ## What I want from GDSC MJU
-- Write your opinion
+- 재밌게 열심히 잘 해보아요~!
